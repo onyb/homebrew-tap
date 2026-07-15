@@ -1,8 +1,8 @@
 class Ykding < Formula
   desc "Sound and notification when your YubiKey waits for a touch"
   homepage "https://github.com/onyb/ykding"
-  url "https://github.com/onyb/ykding/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "7a8612a36526448e160067e38985fb1fe9eea5b98eadf84082aa17336d897c31"
+  url "https://github.com/onyb/ykding/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "ecb7d23a7a0a7371c1660ca39cff522b8a9e488ad6a843f139043dcb41e720a3"
   license "MIT"
 
   def install
