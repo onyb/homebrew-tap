@@ -1,8 +1,8 @@
 class Gst < Formula
   desc "Prepare Indian GST returns offline: validate workbooks, generate upload JSON"
   homepage "https://github.com/onyb/gst"
-  url "https://github.com/onyb/gst/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "f95de79066bf6ed7fbd17f28be399eb6f61a123175a246e6b7c02e41d257c6bf"
+  url "https://github.com/onyb/gst/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "297709cec378f44becd9aabb2895174c4a513e8463f390ccb904e756dd4d9d52"
   license "MPL-2.0"
 
   depends_on "rust" => :build
